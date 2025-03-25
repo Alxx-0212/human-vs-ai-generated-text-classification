@@ -2,3 +2,8 @@
 modules/__pycache__
 *.txt
 *.pth
+*.pyc
+notebooks/.ipynb_checkpoints/
+notebooks/runs/
+dataset/
+!dataset/philosophy-qna-with-gpt35answer_v1.parquet
