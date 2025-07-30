@@ -1,2 +1,2 @@
-# human-and-ai-generated-text-classification
-A comparative analysis of different machine learning techniques for human and AI text classification.
+# human-or-ai-generated-text-classification
+A comparative analysis of different machine learning techniques for human or AI text classification.
